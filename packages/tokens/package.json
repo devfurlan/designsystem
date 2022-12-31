@@ -1,5 +1,5 @@
 {
-  "name": "@devfurlan/tokens",
+  "name": "@ailembrei/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@devfurlan/ts-config": "*",
-    "@devfurlan/eslint-config": "*",
-    "@devfurlan/prettier-config": "*",
+    "@ailembrei/ts-config": "*",
+    "@ailembrei/eslint-config": "*",
+    "@ailembrei/prettier-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }

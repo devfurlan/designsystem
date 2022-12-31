@@ -1,4 +1,4 @@
 {
-  "extends": "@devfurlan/ts-config/base.json",
+  "extends": "@ailembrei/ts-config/base.json",
   "include": ["src"]
 }

@@ -1,5 +1,6 @@
 {
-  "name": "@devfurlan/prettier-config",
+  "name": "@ailembrei/prettier-config",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "ISC",
   "private": true,
