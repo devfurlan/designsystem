@@ -1,0 +1,9 @@
+{
+  "name": "@devfurlan/eslint-config",
+  "main": "index.js",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}

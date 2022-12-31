@@ -1,0 +1,9 @@
+{
+  "name": "@devfurlan/prettier-config",
+  "main": "index.js",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
