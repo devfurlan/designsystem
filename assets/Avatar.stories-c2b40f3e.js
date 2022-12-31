@@ -1,0 +1,2 @@
+import{A as t}from"./index-f2f7f9c2.js";import"./index-d84d9d3b.js";import"./es.object.get-own-property-descriptor-ca06259f.js";import"./index-67ef4239.js";import"./jsx-runtime-82e0d3de.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/devfurlan.png",alt:"Lucas Furlan"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-c2b40f3e.js.map
